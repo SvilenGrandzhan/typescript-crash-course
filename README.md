@@ -1,2 +1,3 @@
 # typescript-crash-course
-first steps in type script
+
+first steps in typescript
